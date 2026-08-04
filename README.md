@@ -12,7 +12,7 @@
 
 | Day | Topic | Notes | Design Challenge |
 |-----|-------|-------|------------------|
-| 1 |syntax,variables,conditional statements,looping statements |[Notes](Day1/notes.mt) | [CreateDesignChallenge](Day1/DesingChallenge.py)|
+| 1 |syntax,variables,conditional statements,looping statements |[Notes](Day1/notes.mt) | [DesignChallenge](Day1/DesingChallenge.py)|
 | 2 | | | |
 | 3 | | | |
 | 4 | | | |
