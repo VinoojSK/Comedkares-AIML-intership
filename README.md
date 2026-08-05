@@ -13,7 +13,7 @@
 | Day | Topic | Notes | Design Challenge |
 |-----|-------|-------|------------------|
 | 1 |syntax,variables,conditionalstatements,loopingstatements|[Notes](Day1/notes.md)|[DesignChallenge](Day1/DesignChallenge.py)|
-| 2 | | | |
+| 2 |functions,dictionary,list,tuples|[Notes](Day2/notes.md)|[functions](Day2/functions.py)|
 | 3 | | | |
 | 4 | | | |
 | 5 | | | |
