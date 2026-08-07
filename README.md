@@ -10,10 +10,10 @@
 
 </div>
 
-| Day | Topic | Notes | Design Challenge |
-|-----|-------|-------|------------------|
-| 1 |syntax,variables,conditionalstatements,loopingstatements|[Notes](Day1/notes.md)|[DesignChallenge](Day1/DesignChallenge.py)|
-| 2 |functions,dictionary,list,tuples|[Notes](Day2/notes.md)|[functions](Day2/functions.py)|
+| Day | Topic | Notes | Design Challenge | Colab Notebook|
+|-----|-------|-------|------------------|---------------|
+| 1 |syntax,variables,conditionalstatements,loopingstatements|[Notes](Day1/notes.md)|[DesignChallenge](Day1/DesignChallenge.py)||
+| 2 |functions,dictionary,list,tuples|[Notes](Day2/notes.md)|[functions](Day2/functions.py)||
 | 3 |simple programs and numpy,pandas |[Notes](Day3/notes.md) |[DesignChallenge](Day3/DesignChallenge.py) |
 | 4 | | | |
 | 5 | | | |
