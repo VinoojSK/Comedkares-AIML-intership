@@ -15,7 +15,7 @@
 | 1 |syntax,variables,conditionalstatements,loopingstatements|[Notes](Day1/notes.md)|[DesignChallenge](Day1/DesignChallenge.py)||
 | 2 |functions,dictionary,list,tuples|[Notes](Day2/notes.md)|[functions](Day2/functions.py)||
 | 3 |simple programs and numpy,pandas |[Notes](Day3/notes.md) |[DesignChallenge](Day3/DesignChallenge.py) |[Colab NB](Day3/dDay3%20python%20programs.ipynb)|
-| 4 |Introduction to Aritficial Intelligence CS50 | | |
+| 4 |Introduction to Aritficial Intelligence CS50|[Notes](Day4/notes.md)|[DesignChallenge](Day4/DesignChallenge.py) |
 | 5 | | | |
 | 6 | | | |
 | 7 | | | |
